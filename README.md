@@ -69,11 +69,8 @@ I build software, write about technology, and contribute to developer communitie
 > “He is a very promising student… fascinated by AI and all curious to learn about same.”
 >
 > — [Dr. Vishal Varia](https://www.linkedin.com/in/drvishalvaria/)
-## 🤝 Connect with me
+## Connect with me <img src="assets/Handshake.gif" alt="Handshake" width="70"/>
 
-<p align="center">
-  <img src="assets/Handshake.gif" alt="Handshake" width="72" />
-</p>
 
 - 🌐 [Website](https://pulkitsinghdev.github.io)
 - 💼 [LinkedIn](https://linkedin.com/in/pulkitsinghdev)
