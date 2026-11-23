@@ -19,19 +19,11 @@
 
 I build software, write about technology, and contribute to developer communities. I’m currently growing my experience in open source and cloud-native projects, and enjoy helping people learn through practical, beginner-friendly resources.
 
-- 🌱 Currently learning: Python, cloud-native development, and open-source project workflows
-- 🔭 Interested in: developer tools, AI, web development, and cloud-native infrastructure
+- 🌱 Currently learning: C & Networking
+- 🔭 Interested in: developer tools, AI, full stack development, and cloud native infrastructure
 - ✍️ Technical writing: [freeCodeCamp](https://www.freecodecamp.org/news/author/pulkitsingh/)
-- 🤝 Community: Founder and lead organizer of [Programmers Universal Group](https://github.com/ProgrammersUniversalGroup)
-- 🌐 Portfolio: [pulkitsinghdev.github.io](https://pulkitsinghdev.github.io)
-
-## 🧭 Experience & community
-
-- Technical author at freeCodeCamp
-- Technical writer with KubeSphere
-- Full-stack development intern at TechVraksh
-- Founder and lead organizer of Programmers Universal Group
-- Contributor to developer communities and events through writing, mentoring, speaking, and organizing
+- 🤝 Community: Tech Co Lead of [ACM Student Chapter SRM AP](https://srmap.acm.org/)
+- 🌐 Portfolio: [pulkitsingh.tech](https://pulkitsingh.tech)
 
 ## 🛠️ Languages and tools
 
@@ -71,11 +63,14 @@ I build software, write about technology, and contribute to developer communitie
 > — [Dr. Vishal Varia](https://www.linkedin.com/in/drvishalvaria/)
 ## Connect with me <img src="assets/Handshake.gif" alt="Handshake" width="70"/>
 
-
-- 🌐 [Website](https://pulkitsinghdev.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/pulkitsinghdev)
-- 📝 [DEV Community](https://dev.to/pulkitsinghdev)
-- 💻 [CodePen](https://codepen.io/pulkitsinghdev)
+<table align="center" cellpadding="12" cellspacing="10">
+  <tr>
+    <td bgcolor="#f2f2f2" align="center"><a href="https://pulkitsinghdev.github.io"><img src="assets/Website-Logo-Black-Signature-Style-PNG.png" width="32" height="32" alt="Website" /></a></td>
+    <td bgcolor="#f2f2f2" align="center"><a href="https://linkedin.com/in/pulkitsinghdev"><img src="assets/Linkedin-Logo-Black-Modern-Symbol-PNG.png" width="32" height="32" alt="LinkedIn" /></a></td>
+    <td bgcolor="#f2f2f2" align="center"><a href="https://dev.to/pulkitsinghdev"><img src="https://cdn.simpleicons.org/devdotto/000000" width="32" height="32" alt="DEV Community" /></a></td>
+    <td bgcolor="#f2f2f2" align="center"><a href="https://www.freecodecamp.org/news/author/PulkitSingh"><img src="https://cdn.simpleicons.org/freecodecamp/000000" width="32" height="32" alt="freeCodeCamp" /></a></td>
+  </tr>
+</table>
 
 ---
 
