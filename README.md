@@ -75,3 +75,7 @@ I build software, write about technology, and contribute to developer communitie
 ---
 
 <p align="center"><i>Open source and community are great ways to learn, build, and help others.</i></p>
+<div align="center">
+  <img src="assets/crowned_cat_dark.gif" alt="Pulkit Singh — @pulkitsinghdev" width="100%" />
+<br />
+</div>
